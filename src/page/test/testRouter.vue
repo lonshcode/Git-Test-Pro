@@ -1,6 +1,5 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+  <div>
     <div>这是一个测试组件</div>
     <div>第三次测试</div>
   </div>
@@ -8,7 +7,7 @@
 
 <script>
 export default {
-  name: 'test',
+  name: 'testRouter',
   // components: {
   //   HelloWorld
   // }
